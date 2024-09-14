@@ -62,7 +62,6 @@ const JobListing = () => {
           name="search-query"
           className="h-full flex-1 px-4 text-md"
         />
-        {/*  */}
         <Button variant="blue" type="submit" className="h-full md:w-28">
           Search
         </Button>
